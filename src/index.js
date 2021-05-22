@@ -18,4 +18,4 @@ app.use('/api/productos', require('./routes/api'));
 
 //Empezando el servidor
 app.listen(app.get('port'));
-console.log("mi primer servidor");
+console.log("servidor para ProyAngular4");
