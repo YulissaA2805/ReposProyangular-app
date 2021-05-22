@@ -1,0 +1,30 @@
+[
+    {
+        "id":"1",
+        "title":"Ajedrez",
+        "category":"Juegos didácticos",
+        "qty":"1 pieza",
+        "img":"te1"
+    },
+    {
+        "id":"2",
+        "title":"Arbolito",
+        "category":"Figuras",
+        "qty":"20 piezas",
+        "img":"te2"
+    },
+    {
+        "id":"3",
+        "title":"Gorras protectoras",
+        "category":"Misceláneos",
+        "qty":"1 pieza",
+        "img":"te3"
+    },
+    {
+        "id":"4",
+        "title":"Ajedrez",
+        "category":"Juegos didácticos",
+        "qty":"1 pieza",
+        "img":"te4"
+    }
+]
