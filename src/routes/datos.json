@@ -1,30 +1,38 @@
 [
     {
         "id":"1",
-        "title":"Ajedrez",
-        "category":"Juegos didácticos",
-        "qty":"1 pieza",
+        "title":"La peor y la mejor película de 2021",
+        "date": "12/12/21",
+        "author": "Yulissa Álvarez Osuna",
+        "content": "Durante el 2021 hemos tenido una variedad de películas, y a pesar de eso no ha habido muchas opciones interesantes como para que nos den ganas de verdad de ir al cine. ¿Será que entre las películas estrenadas este año habrá algunas que sí valgan la pena? Descúbrelo en esta breve revisión a las mejores y las peores películas estrenadas durante el 2021…",
+        "tags": "",
         "img":"te1"
     },
     {
         "id":"2",
-        "title":"Arbolito",
-        "category":"Figuras",
-        "qty":"20 piezas",
-        "img":"te2"
+        "title": "Reseña a 'Bob Esponja: Al Rescate'",
+        "date": "12/12/21",
+        "author": "Yulissa Álvarez Osuna",
+        "content": "La primera película de la esponja amarilla marcó a toda una generación de jóvenes que hasta el día de hoy sigue queriendo la serie en sus altas y bajas. Muchos de ellos también vieron la segunda película también estrenada en el cine, la cual recibió críticas un poco más negativas que la primera. ¿Será que esta reciente entrega cumplió con las expectativas del público?…",
+        "tags": "",
+        "img":"te1"
     },
     {
         "id":"3",
-        "title":"Gorras protectoras",
-        "category":"Misceláneos",
-        "qty":"1 pieza",
-        "img":"te3"
+        "title":"Todo lo que está mal con la 2da temporada de TPN",
+        "date": "12/12/21",
+        "author": "Yulissa Álvarez Osuna",
+        "content": "La primera temporada de la adaptación animada del manga homónimo fue una sorpresa para el público: fue una serie nueva con una historia interesante, con recursos de la trama ya vistos anteriormente en otros animes, pero que de alguna manera logró hacernos sentir que presenciamos algo fresco e innovador. En cambio, su segunda temporada, no logró lo mismo...",
+        "tags": "",
+        "img":"te1"
     },
     {
         "id":"4",
-        "title":"Ajedrez",
-        "category":"Juegos didácticos",
-        "qty":"1 pieza",
-        "img":"te4"
+        "title":"¿Qué esperar del cine en 2022?",
+        "date": "12/12/21",
+        "author": "Yulissa Álvarez Osuna",
+        "content": "Sobra decir lo que todos ya hemos ecuchado hasta el cansancio desde que inició la cuarentena; sabemos que el mundo se puso patas arriba y que muchas cosas cambiaron en el estilo de vida general. Una de esas cosas fue por supuesto el cine: fechas de estreno atrasadas, salidas al cine con los amigos canceladas, etc. ¿Qué otros cambios traerá el año siguiente y cómo le afectará o beneficiará al cine del futuro?…",
+        "tags": "",
+        "img":"te1"
     }
 ]
