@@ -1,0 +1,11 @@
+[
+    {
+        "id":"1",
+        "title":"La peor y la mejor película de 2021",
+        "date": "12/12/21",
+        "author": "Yulissa Álvarez Osuna",
+        "content": "Durante el 2021 hemos tenido una variedad de películas, y a pesar de eso no ha habido muchas opciones interesantes como para que nos den ganas de verdad de ir al cine. ¿Será que entre las películas estrenadas este año habrá algunas que sí valgan la pena? Descúbrelo en esta breve revisión a las mejores y las peores películas estrenadas durante el 2021…",
+        "tags": [ "#LoPeorLoMejor", "#VistoBueno", "#VistoMalo", "#2021", "#Cine" ],
+        "img":"te1"
+    }
+]

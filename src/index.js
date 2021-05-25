@@ -14,7 +14,7 @@ app.use(cors());
 
 //rutas
 app.use('/api/productos', require('./routes/api'));
-
+app.use('/api2/entradas', require('./routes/api2'));
 
 //Empezando el servidor
 app.listen(app.get('port'));
