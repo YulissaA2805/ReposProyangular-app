@@ -2,7 +2,7 @@ const {Router} = require('express');
 const router = Router();
 
 const entradas = require('./datosEntradas.json');
-console.log(entradas);
+//console.log(entradas);
 
 router.get('/', (req,res) => {
     res.json(entradas);

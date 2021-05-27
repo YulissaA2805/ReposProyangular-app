@@ -1,0 +1,29 @@
+###
+
+GET http://localhost:3000/api/notas
+
+###
+
+POST http://localhost:3000/api/notas
+Content-Type: application/json
+
+{
+    "text": "Me encanta su blog! Me gustaria que hicieran una critica de Parasyte"
+}
+
+###
+
+GET http://localhost:3000/api/notas/60afcdddc1f7a74bac39fe9e
+
+###
+
+DELETE http://localhost:3000/api/notas/60afcdddc1f7a74bac39fe9e
+
+###
+
+PUT http://localhost:3000/api/notas/60afcdddc1f7a74bac39fe9e
+Content-Type: application/json
+
+{
+    "text": "Me encanta su blog! Me gustaria que hicieran una critica de Frozen"
+}

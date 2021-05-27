@@ -4,18 +4,17 @@ const router = Router();
 const notas = require('./datosNotas.json');
 console.log(notas);
 
-router.get('/', (req,res) => {
-    res.json(notas);
-});
+const notasCtrl = require('../controllers/notas.controller');
 
-router.get('/:id', (req,res) => {
-    const {id} = req.params;
-    notas.forEach(nota => {
-        if(nota.id == id){
-            res.json(nota);
-        }
-    });
-    console.log(id);
-});
+router.get('/', notasCtrl.getNotas);
+
+router.get('/:id', notasCtrl.getNota);
+
+router.post('/', notasCtrl.createNota);
+
+/* no creo necesitar estos metodos pero aun asi los inclui */
+router.delete('/:id', notasCtrl.deleteNota);
+
+router.put('/:id', notasCtrl.updateNota);
 
 module.exports = router;
