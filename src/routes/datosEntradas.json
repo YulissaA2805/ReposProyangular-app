@@ -6,7 +6,8 @@
         "author": "Yulissa Álvarez Osuna",
         "content": "Durante el 2021 hemos tenido una variedad de películas, y a pesar de eso no ha habido muchas opciones interesantes como para que nos den ganas de verdad de ir al cine. ¿Será que entre las películas estrenadas este año habrá algunas que sí valgan la pena? Descúbrelo en esta breve revisión a las mejores y las peores películas estrenadas durante el 2021…",
         "tags": [ "#LoPeorLoMejor", "#VistoBueno", "#VistoMalo", "#2021", "#Cine" ],
-        "img":"imagen2.jpg"
+        "img":"imagen2.jpg",
+        "comments": [{"usuario":"Anónimo345", "comentario":"Muy interesante. Estoy de acuerdo."}, {"usuario":"Anónimo1212", "comentario":"XD"}]
     },
     {
         "id":"2",
@@ -15,7 +16,8 @@
         "author": "Yulissa Álvarez Osuna",
         "content": "La primera película de la esponja amarilla marcó a toda una generación de jóvenes que hasta el día de hoy sigue queriendo la serie en sus altas y bajas. Muchos de ellos también vieron la segunda película también estrenada en el cine, la cual recibió críticas un poco más negativas que la primera. ¿Será que esta reciente entrega cumplió con las expectativas del público?…",
         "tags": [ "#VistoBueno", "#VistoMalo", "#2020", "#Cine", "#Televisión" ],
-        "img":"imagen3.jpg"
+        "img":"imagen3.jpg",
+        "comments": [{"usuario":"Anónimo65", "comentario":"bob toronjaa"}, {"usuario":"sonne134", "comentario":"Ni la fui a ver al cine"}]
     },
     {
         "id":"3",
@@ -24,15 +26,17 @@
         "author": "Yulissa Álvarez Osuna",
         "content": "La primera temporada de la adaptación animada del manga homónimo fue una sorpresa para el público: fue una serie nueva con una historia interesante, con recursos de la trama ya vistos anteriormente en otros animes, pero que de alguna manera logró hacernos sentir que presenciamos algo fresco e innovador. En cambio, su segunda temporada, no logró lo mismo...",
         "tags": [ "#VistoMalo", "#Anime", "#Televisión" ],
-        "img":"imagen4.jpeg"
+        "img":"imagen4.jpeg",
+        "comments": [{"usuario":"User2525", "comentario":"no es fiel al manga"}, {"usuario":"Anon34", "comentario":"Muy aburrida"}]
     },
     {
         "id":"4",
         "title":"¿Qué esperar del cine en 2022?",
         "date": "12/12/21",
         "author": "Yulissa Álvarez Osuna",
-        "content": "Sobra decir lo que todos ya hemos ecuchado hasta el cansancio desde que inició la cuarentena; sabemos que el mundo se puso patas arriba y que muchas cosas cambiaron en el estilo de vida general. Una de esas cosas fue por supuesto el cine: fechas de estreno atrasadas, salidas al cine con los amigos canceladas, etc. ¿Qué otros cambios traerá el año siguiente y cómo le afectará o beneficiará al cine del futuro?…",
+        "content": "Sobra decir lo que todos ya hemos escuchado hasta el cansancio desde que inició la cuarentena; sabemos que el mundo se puso patas arriba y que muchas cosas cambiaron en el estilo de vida general. Una de esas cosas fue por supuesto el cine: fechas de estreno atrasadas, salidas al cine con los amigos canceladas, etc. ¿Qué otros cambios traerá el año siguiente y cómo le afectará o beneficiará al cine del futuro?…",
         "tags": [ "#Cine", "#2022" ],
-        "img":"imagen5.jpg"
+        "img":"imagen5.jpg",
+        "comments": [{"usuario":"masterofpuppets", "comentario":"Yo creo que el cine nunca será como el de antes."}]
     }
 ]
