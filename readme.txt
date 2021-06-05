@@ -1,8 +1,9 @@
 Cosas necesarias de instalar para correr el proyecto y cómo instalarlas (comandos):
 
-### En la terminal de la computadora o link
+### En la terminal de la computadora o link de descarga
 Angular: npm install -g @angular/cli
 MongoDB: https://www.mongodb.org/downloads
+Node: https://nodejs.org/
 
 ### En esta aplicación (Back-end)
 Express y Morgan: npm i express morgan
