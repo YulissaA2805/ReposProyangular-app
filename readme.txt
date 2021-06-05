@@ -12,3 +12,4 @@ Mongoose: npm i mongoose
 
 ### En el proyecto angular (Front-end)
 Ng2SearchFilter: npm i ng2-search-filter --save
+Materialize: npm install --save @types/materialize-css
